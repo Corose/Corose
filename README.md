@@ -1,19 +1,25 @@
 <!-- ESTE ES EL BANNER ANIMADO -->
+<p align="center">
+<img src="itachi.gif" alt="Detalle Coroze" width="600">
+
+<p align="center">
+<img src="text2.gif" alt="Detalle Coroze" width="600">
+
 ---
 
-### ⛩️ Corose
-
+<img align="left" src="banner2.png" alt="Detalle Coroze" width="100">
 
 ### 👨🏻‍💻 Sobre mí
-<img align="right" src="banner-coroze.jpg" alt="Detalle Coroze" width="200">
+
 
 - 🔭 Actualmente trabajando en varios proyectos, incluyendo plataformas SaaS y aplicaciones web
 - 🌱 Enfocado en el desarrollo full-stack utilizando herramientas modernas y bases de datos robustas.
 - ⚡ Fuera del código: Disfruto de la cultura y estética japonesa, el survival horror clásico y la fotografía botánica.
-
+  
 ---
 
 ### 🛠️ Stack Tecnológico
+<img align="right" src="banner-coroze.jpg" alt="Detalle Coroze" width="200">
 
 **Frontend & Frameworks:** <br>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" title="HTML5"/>
