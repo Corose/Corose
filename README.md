@@ -55,3 +55,13 @@
   <img src="banner.jpg" alt="Separador final" width="400">
 </p>
 <!-- Opcional: Aquí puedes agregar una imagen tuya, un banner con temática Oni/Kitsune o estadísticas de GitHub -->
+
+### 🎧 Lo que escucho mientras programo
+
+<a href="https://open.spotify.com/intl-es/artist/4zbbvLJ40NWPcYoqKKc3fK?si=tPliiEBnRQ6UovbNjHUwfg" target="_blank">
+  <img src="https://cdn.simpleicons.org/spotify/1ED760" width="40" align="left" title="Mi Playlist en Spotify"/>
+</a>
+
+&nbsp; **[Haz clic aquí para escuchar mi Playlist](https://open.spotify.com/intl-es/artist/4zbbvLJ40NWPcYoqKKc3fK?si=tPliiEBnRQ6UovbNjHUwfg)** <br>
+&nbsp; *Desde clásicos como Linkin Park hasta algo de BABYMETAL para mantener la energía.*
+<br clear="left"/>
