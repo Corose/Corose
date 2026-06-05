@@ -1,12 +1,15 @@
 <!-- ESTE ES EL BANNER ANIMADO -->
 <p align="center">
 <img src="nyan.gif" alt="Detalle Coroze" width="600">
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Corose&label=VISITAS DEL PERFIL&color=blue&style=flat" alt="Contador de Visitas" />
+</p>
 <p align="center">
 <img src="text2.gif" alt="Detalle Coroze" width="600">
 
 <img align="left" src="banner2.png" alt="Detalle Coroze" width="90">
 <img align="right" src="banner2.png" alt="Detalle Coroze" width="90">
+
 
 ---
 
@@ -65,6 +68,7 @@
   <img src="https://cdn.simpleicons.org/spotify/1ED760" width="40"  title="Mi Playlist en Spotify"/>
   
 </a>
+
 
 &nbsp; **[Escuchala](https://open.spotify.com/intl-es/artist/4zbbvLJ40NWPcYoqKKc3fK?si=tPliiEBnRQ6UovbNjHUwfg)** <br>
 <br clear="left"/>
