@@ -5,9 +5,12 @@
 <p align="center">
 <img src="text2.gif" alt="Detalle Coroze" width="600">
 
+<img align="left" src="banner2.png" alt="Detalle Coroze" width="90">
+<img align="right" src="banner2.png" alt="Detalle Coroze" width="90">
+
 ---
 
-<img align="left" src="banner2.png" alt="Detalle Coroze" width="100">
+
 
 ### 👨🏻‍💻 Sobre mí
 
@@ -19,6 +22,7 @@
 ---
 
 ### 🛠️ Stack Tecnológico
+
 <img align="right" src="banner-coroze.jpg" alt="Detalle Coroze" width="200">
 
 **Frontend & Frameworks:** <br>
