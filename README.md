@@ -63,5 +63,4 @@
 </a>
 
 &nbsp; **[Haz clic aquí para escuchar mi Playlist](https://open.spotify.com/intl-es/artist/4zbbvLJ40NWPcYoqKKc3fK?si=tPliiEBnRQ6UovbNjHUwfg)** <br>
-&nbsp; *Desde clásicos como Linkin Park hasta algo de BABYMETAL para mantener la energía.*
 <br clear="left"/>
