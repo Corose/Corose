@@ -6,6 +6,7 @@
 
 ### 👨🏻‍💻 Sobre mí
 <img align="right" src="banner-coroze.jpg" alt="Detalle Coroze" width="200">
+
 - 🔭 Actualmente trabajando en varios proyectos, incluyendo plataformas SaaS y aplicaciones web
 - 🌱 Enfocado en el desarrollo full-stack utilizando herramientas modernas y bases de datos robustas.
 - ⚡ Fuera del código: Disfruto de la cultura y estética japonesa, el survival horror clásico y la fotografía botánica.
@@ -14,28 +15,33 @@
 
 ### 🛠️ Stack Tecnológico
 
-**Frontend & Frameworks:**
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+**Frontend & Frameworks:** <br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" title="HTML5"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" title="CSS3"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="40" title="Next.js"/>
 
-**Backend & Lenguajes:**
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![SQL](https://img.shields.io/badge/sql-%23003B57.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+**Backend & Bases de Datos:** <br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" title="Python"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" width="40" title="SQL"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="40" title="PostgreSQL"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" width="40" title="Oracle"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" width="40" title="Firebase"/>
 
-**Bases de Datos & Infraestructura:**
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Render](https://img.shields.io/badge/Render-%2346E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
+**Infraestructura & Despliegue:** <br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg" width="40" title="Vercel"/>
+<img src="https://cdn.simpleicons.org/render/46E3B7" width="40" title="Render"/>
 
-**OS
-
-
+**Sistemas Operativos:** <br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="40" title="Linux"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows8/windows8-original.svg" width="40" title="Windows"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" width="40" title="Ubuntu"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fedora/fedora-original.svg" width="40" title="Fedora"/>
 ---
 
 ---
 
-
+<br>
+<p align="center">
+  <img src="banner.jpg" alt="Separador final" width="400">
+</p>
 <!-- Opcional: Aquí puedes agregar una imagen tuya, un banner con temática Oni/Kitsune o estadísticas de GitHub -->
