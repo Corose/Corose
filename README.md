@@ -1,16 +1,13 @@
 <!-- ESTE ES EL BANNER ANIMADO -->
-<p align="center">
-  <img src="https://mx.pinterest.com/pin/833588212312008216/" alt="Banner Animado de Coroze con Máscara Oni y Código" width="100%">
-</p>
+---
 
-# ⛩️ ¡Hola! Soy Luis Angel (aka Coroze) 
+### ⛩️ Corose
 
-Soy un desarrollador de software y estudiante en la **Facultad de Informática de la UAQ**. Me apasiona el desarrollo full-stack, la arquitectura de software y la creación de soluciones eficientes. Me encanta transformar ideas complejas en sistemas funcionales y estéticamente atractivos.
 
 ### 👨🏻‍💻 Sobre mí
+<img align="right" src="banner-coroze.jpg" alt="Detalle Coroze" width="200">
 - 🔭 Actualmente trabajando en varios proyectos, incluyendo plataformas SaaS y aplicaciones web
 - 🌱 Enfocado en el desarrollo full-stack utilizando herramientas modernas y bases de datos robustas.
-- 🏗️ Tengo experiencia construyendo desde rastreadores de inventario automatizados hasta portales web de entretenimiento
 - ⚡ Fuera del código: Disfruto de la cultura y estética japonesa, el survival horror clásico y la fotografía botánica.
 
 ---
@@ -33,14 +30,12 @@ Soy un desarrollador de software y estudiante en la **Facultad de Informática d
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-%2346E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
 
-OS
+**OS
+
 
 ---
 
 ---
 
-### 📫 Cómo contactarme
-- **Email:** [Tu correo electrónico aquí]
-- **LinkedIn:** [Enlace a tu perfil de LinkedIn]
 
 <!-- Opcional: Aquí puedes agregar una imagen tuya, un banner con temática Oni/Kitsune o estadísticas de GitHub -->
