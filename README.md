@@ -20,10 +20,11 @@
 - ⚡ Fuera del código: Disfruto de la cultura y estética japonesa, el survival horror clásico y la fotografía botánica.
   
 ---
-
-### 🛠️ Stack Tecnológico
-
-<img align="right" src="banner-coroze.jpg" alt="Detalle Coroze" width="200">
+<div align="center">
+<p align="center" bold>  🛠️ Stack Tecnológico </p>
+<p>
+<img align="right" src="banner-coroze2.png" alt="Detalle Coroze" width="200">
+<img align="left" src="banner-coroze2.png" alt="Detalle Coroze" width="200">
 
 **Frontend & Frameworks:** <br>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" title="HTML5"/>
@@ -41,15 +42,16 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg" width="40" title="Vercel"/>
 <img src="https://cdn.simpleicons.org/render/46E3B7" width="40" title="Render"/>
 
+
 **Sistemas Operativos:** <br>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="40" title="Linux"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows8/windows8-original.svg" width="40" title="Windows"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" width="40" title="Ubuntu"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fedora/fedora-original.svg" width="40" title="Fedora"/>
----
+</div>
 
 ---
-
+<div align="center">
 <br>
 <p align="center">
   <img src="banner.jpg" alt="Separador final" width="400">
@@ -59,8 +61,9 @@
 ### 🎧 Lo que escucho mientras programo
 
 <a href="https://open.spotify.com/intl-es/artist/4zbbvLJ40NWPcYoqKKc3fK?si=tPliiEBnRQ6UovbNjHUwfg" target="_blank">
-  <img src="https://cdn.simpleicons.org/spotify/1ED760" width="40" align="left" title="Mi Playlist en Spotify"/>
+  <img src="https://cdn.simpleicons.org/spotify/1ED760" width="40" align="center" title="Mi Playlist en Spotify"/>
 </a>
 
 &nbsp; **[Haz clic aquí para escuchar mi Playlist](https://open.spotify.com/intl-es/artist/4zbbvLJ40NWPcYoqKKc3fK?si=tPliiEBnRQ6UovbNjHUwfg)** <br>
 <br clear="left"/>
+</div>
